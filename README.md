@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaswanth Varada</h1>
-<h3 align="center">Passionate about Full-Stack Web Development</h3>
+<h3 align="center">A Fullstack Developer, Building the web of Tomorrow.</h3>
 
 
 - 🔭 I’m currently working on **My personal Projects**
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Firebase..or anything related to MERN Stack**
 
-- 📫 How to reach me **yaswanthvarada20@gmail.com**
+- 📫 You can reach me at **yaswanthvarada20@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yaswanth-varada/overlay/1732259196409/single-media-viewer/?profileId=ACoAADdJA_MBiYEtQDmIJTPBUk8C9pwHwEM476g](https://www.linkedin.com/in/yaswanth-varada/overlay/1732259196409/single-media-viewer/?profileId=ACoAADdJA_MBiYEtQDmIJTPBUk8C9pwHwEM476g)
 
@@ -18,7 +18,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/yaswanth varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth varada" height="30" width="40" /></a>
 <a href="https://instagram.com/yaswanth_varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaswanth_varada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yaswanth varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yaswanth varada" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yaswanthvarada20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yaswanthvarada20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yaswanth_varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaswanth_varada" height="30" width="40" /></a>
 </p>
