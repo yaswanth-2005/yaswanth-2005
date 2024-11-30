@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaswanth Varada</h1>
-<h3 align="center">A Fullstack Developer, Building the web of Tomorrow.</h3>
+<h3 align="center">A Fullstack Developer, Building the Web of Tomorrow.</h3>
 
+<br>
 
-- 🔭 I’m currently working on **My personal Projects**
+- 🔭 I'm currently working on **My Personal Projects**
 
 - 🌱 I’m currently learning **DevOps, AWS**
 
@@ -12,7 +13,8 @@
 
 - 📫 You can reach me at **yaswanthvarada20@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yaswanth-varada/overlay/1732259196409/single-media-viewer/?profileId=ACoAADdJA_MBiYEtQDmIJTPBUk8C9pwHwEM476g](https://www.linkedin.com/in/yaswanth-varada/overlay/1732259196409/single-media-viewer/?profileId=ACoAADdJA_MBiYEtQDmIJTPBUk8C9pwHwEM476g)
+- 📄 Know about my experiences [Yaswanth's Resume](https://www.linkedin.com/in/yaswanth-varada/overlay/1732259196409/single-media-viewer/?profileId=ACoAADdJA_MBiYEtQDmIJTPBUk8C9pwHwEM476g)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
