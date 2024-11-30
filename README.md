@@ -43,4 +43,7 @@
 
  - 📧 Reach out, and let's build something extraordinary together!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanth-2005&show_icons=true&locale=en&layout=compact" alt="yaswanth-2005" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth-2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanth-2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
